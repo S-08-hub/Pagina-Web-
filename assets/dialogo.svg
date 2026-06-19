@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Dialogo</title>
+  <desc id="desc">Ilustracion de dos personas conversando con globos de dialogo en tonos verde y azul.</desc>
+  <rect width="1200" height="900" rx="48" fill="#0b2732"/>
+  <circle cx="260" cy="190" r="110" fill="#74d3c3" opacity="0.16"/>
+  <circle cx="930" cy="170" r="120" fill="#58aee6" opacity="0.14"/>
+  <path d="M465 180c0-42 34-76 76-76h160c42 0 76 34 76 76s-34 76-76 76H625l-68 48 14-48h-30c-42 0-76-34-76-76z" fill="#74d3c3"/>
+  <path d="M620 190c0-42 34-76 76-76h168c42 0 76 34 76 76s-34 76-76 76h-56l-70 48 14-48h-56c-42 0-76-34-76-76z" fill="#58aee6"/>
+  <circle cx="620" cy="178" r="16" fill="#06131a"/>
+  <circle cx="780" cy="178" r="16" fill="#06131a"/>
+  <circle cx="330" cy="490" r="90" fill="#f5fbff"/>
+  <circle cx="330" cy="465" r="34" fill="#06131a"/>
+  <path d="M284 545c24-30 68-30 92 0" fill="none" stroke="#06131a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M260 590h140c26 0 48 21 48 48v110H212V638c0-26 21-48 48-48z" fill="#58aee6"/>
+  <circle cx="860" cy="490" r="90" fill="#f5fbff"/>
+  <circle cx="860" cy="465" r="34" fill="#06131a"/>
+  <path d="M814 545c24-30 68-30 92 0" fill="none" stroke="#06131a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M790 590h140c26 0 48 21 48 48v110H742V638c0-26 21-48 48-48z" fill="#74d3c3"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Escuela segura</title>
+  <desc id="desc">Ilustracion de una escuela con ambiente seguro y estudiantes.</desc>
+  <rect width="1200" height="900" rx="48" fill="#0b2430"/>
+  <circle cx="250" cy="175" r="100" fill="#74d3c3" opacity="0.15"/>
+  <circle cx="930" cy="165" r="110" fill="#58aee6" opacity="0.14"/>
+  <rect x="230" y="270" width="740" height="400" rx="42" fill="#123240" stroke="#2d5565" stroke-width="5"/>
+  <rect x="430" y="462" width="140" height="208" rx="20" fill="#f5fbff"/>
+  <rect x="630" y="462" width="140" height="208" rx="20" fill="#f5fbff"/>
+  <path d="M320 270l280-148 280 148" fill="#74d3c3"/>
+  <circle cx="460" cy="435" r="44" fill="#f5fbff"/>
+  <circle cx="460" cy="424" r="18" fill="#06131a"/>
+  <path d="M436 462c13-18 34-18 48 0" fill="none" stroke="#06131a" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="740" cy="435" r="44" fill="#f5fbff"/>
+  <circle cx="740" cy="424" r="18" fill="#06131a"/>
+  <path d="M716 462c13-18 34-18 48 0" fill="none" stroke="#06131a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M580 486c28-24 52-24 80 0" fill="none" stroke="#58aee6" stroke-width="12" stroke-linecap="round"/>
+  <rect x="563" y="504" width="74" height="166" rx="26" fill="#58aee6"/>
+</svg>

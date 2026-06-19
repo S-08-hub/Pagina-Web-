@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Respeto</title>
+  <desc id="desc">Ilustracion de un escudo y dos manos en colores verde y azul.</desc>
+  <rect width="1200" height="900" rx="48" fill="#0a2430"/>
+  <circle cx="950" cy="180" r="115" fill="#58aee6" opacity="0.16"/>
+  <circle cx="250" cy="180" r="95" fill="#74d3c3" opacity="0.16"/>
+  <path d="M600 160l180 70v170c0 150-80 250-180 320-100-70-180-170-180-320V230l180-70z" fill="#74d3c3"/>
+  <path d="M600 200l130 52v128c0 108-55 184-130 242-75-58-130-134-130-242V252l130-52z" fill="#f5fbff" opacity="0.92"/>
+  <path d="M390 635c64-52 146-80 210-80s146 28 210 80" fill="none" stroke="#58aee6" stroke-width="28" stroke-linecap="round"/>
+  <path d="M330 682c80-74 164-106 270-106s190 32 270 106" fill="none" stroke="#f5fbff" stroke-width="18" stroke-linecap="round" opacity="0.85"/>
+  <path d="M418 705c52-26 106-38 182-38s130 12 182 38" fill="none" stroke="#74d3c3" stroke-width="16" stroke-linecap="round" opacity="0.85"/>
+</svg>

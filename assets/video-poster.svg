@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Poster de video</title>
+  <desc id="desc">Imagen previa del video sobre propuestas para erradicar la violencia.</desc>
+  <rect width="1280" height="720" fill="#091f29"/>
+  <circle cx="1040" cy="140" r="130" fill="#58aee6" opacity="0.16"/>
+  <circle cx="220" cy="150" r="110" fill="#74d3c3" opacity="0.16"/>
+  <path d="M160 520c160-150 320-170 480-80 110 60 190 78 320 42 86-24 158-70 220-130" fill="none" stroke="#74d3c3" stroke-width="18" stroke-linecap="round" opacity="0.5"/>
+  <path d="M180 590c150-106 300-122 440-46 116 62 205 78 340 40 92-26 175-82 260-156" fill="none" stroke="#58aee6" stroke-width="14" stroke-linecap="round" opacity="0.45"/>
+  <rect x="390" y="180" width="500" height="320" rx="34" fill="#123240" stroke="#2f5562" stroke-width="4"/>
+  <path d="M600 240l130 84-130 84z" fill="#74d3c3"/>
+  <text x="640" y="560" text-anchor="middle" fill="#f5fbff" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">
+    Propuestas para erradicar la violencia
+  </text>
+</svg>

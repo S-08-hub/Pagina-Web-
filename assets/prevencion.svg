@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Prevencion</title>
+  <desc id="desc">Ilustracion de un escudo protector con tonos verde y azul.</desc>
+  <rect width="1200" height="900" rx="48" fill="#0a2130"/>
+  <circle cx="960" cy="170" r="110" fill="#58aee6" opacity="0.16"/>
+  <circle cx="250" cy="190" r="100" fill="#74d3c3" opacity="0.14"/>
+  <path d="M600 150l190 68v168c0 146-88 248-190 330-102-82-190-184-190-330V218l190-68z" fill="#58aee6"/>
+  <path d="M600 202l126 46v120c0 100-56 176-126 226-70-50-126-126-126-226V248l126-46z" fill="#f5fbff"/>
+  <path d="M535 430l40 40 93-114" fill="none" stroke="#74d3c3" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M390 690c72-62 136-90 210-90s138 28 210 90" fill="none" stroke="#74d3c3" stroke-width="18" stroke-linecap="round" opacity="0.8"/>
+</svg>

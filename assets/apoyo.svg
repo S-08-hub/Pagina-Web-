@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Apoyo</title>
+  <desc id="desc">Ilustracion de personas conectadas en una red de ayuda.</desc>
+  <rect width="1200" height="900" rx="48" fill="#0b1f29"/>
+  <circle cx="940" cy="190" r="120" fill="#74d3c3" opacity="0.14"/>
+  <circle cx="240" cy="160" r="100" fill="#58aee6" opacity="0.14"/>
+  <g stroke="#74d3c3" stroke-width="8" stroke-linecap="round" opacity="0.6">
+    <path d="M290 540L430 390"/>
+    <path d="M430 390L600 310"/>
+    <path d="M600 310L770 385"/>
+    <path d="M770 385L940 545"/>
+    <path d="M430 390L360 620"/>
+    <path d="M600 310L600 610"/>
+  </g>
+  <g fill="#f5fbff">
+    <circle cx="290" cy="540" r="58"/>
+    <circle cx="430" cy="390" r="68"/>
+    <circle cx="600" cy="310" r="76"/>
+    <circle cx="770" cy="385" r="66"/>
+    <circle cx="940" cy="545" r="58"/>
+    <circle cx="360" cy="620" r="52"/>
+    <circle cx="600" cy="610" r="58"/>
+  </g>
+  <g fill="#06131a">
+    <circle cx="290" cy="524" r="20"/>
+    <circle cx="430" cy="372" r="24"/>
+    <circle cx="600" cy="290" r="26"/>
+    <circle cx="770" cy="370" r="22"/>
+    <circle cx="940" cy="530" r="20"/>
+    <circle cx="360" cy="606" r="18"/>
+    <circle cx="600" cy="592" r="20"/>
+  </g>
+</svg>
